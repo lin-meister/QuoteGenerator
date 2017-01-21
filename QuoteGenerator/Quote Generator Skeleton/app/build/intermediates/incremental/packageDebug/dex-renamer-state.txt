@@ -1,7 +1,0 @@
-#Fri Jan 20 12:01:26 PST 2017
-base.0=C\:\\Users\\Muchen Liu\\Desktop\\QuoteGenerator\\QuoteGenerator\\Quote Generator Skeleton\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f0125dcd1fa516f19a79a444468c38637458cb4f
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\Users\\Muchen Liu\\Desktop\\QuoteGenerator\\QuoteGenerator\\Quote Generator Skeleton\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_387a8b0aaf63c54136a3c2db7485c46f88d8fdbf\\classes.dex
-base.1=C\:\\Users\\Muchen Liu\\Desktop\\QuoteGenerator\\QuoteGenerator\\Quote Generator Skeleton\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_387a8b0aaf63c54136a3c2db7485c46f88d8fdbf
-file.0=C\:\\Users\\Muchen Liu\\Desktop\\QuoteGenerator\\QuoteGenerator\\Quote Generator Skeleton\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f0125dcd1fa516f19a79a444468c38637458cb4f\\classes.dex
