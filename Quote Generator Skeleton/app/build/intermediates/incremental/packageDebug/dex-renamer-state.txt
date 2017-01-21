@@ -1,7 +1,7 @@
-#Fri Jan 20 12:01:26 PST 2017
-base.0=C\:\\Users\\Muchen Liu\\Desktop\\QuoteGenerator\\QuoteGenerator\\Quote Generator Skeleton\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f0125dcd1fa516f19a79a444468c38637458cb4f
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\Users\\Muchen Liu\\Desktop\\QuoteGenerator\\QuoteGenerator\\Quote Generator Skeleton\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_387a8b0aaf63c54136a3c2db7485c46f88d8fdbf\\classes.dex
-base.1=C\:\\Users\\Muchen Liu\\Desktop\\QuoteGenerator\\QuoteGenerator\\Quote Generator Skeleton\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_387a8b0aaf63c54136a3c2db7485c46f88d8fdbf
-file.0=C\:\\Users\\Muchen Liu\\Desktop\\QuoteGenerator\\QuoteGenerator\\Quote Generator Skeleton\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f0125dcd1fa516f19a79a444468c38637458cb4f\\classes.dex
+#Fri Jan 20 17:27:11 PST 2017
+base.0=C\:\\Users\\M\\AndroidStudioProjects\\QuoteGenerator\\Quote Generator Skeleton\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_4cf91df9eb5846007a076c85e8fbf95004e1a8e6
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\M\\AndroidStudioProjects\\QuoteGenerator\\Quote Generator Skeleton\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_4f61b708c367e87f736142132953b8d1dbe9adff\\classes.dex
+base.1=C\:\\Users\\M\\AndroidStudioProjects\\QuoteGenerator\\Quote Generator Skeleton\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_4f61b708c367e87f736142132953b8d1dbe9adff
+file.0=C\:\\Users\\M\\AndroidStudioProjects\\QuoteGenerator\\Quote Generator Skeleton\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_4cf91df9eb5846007a076c85e8fbf95004e1a8e6\\classes.dex

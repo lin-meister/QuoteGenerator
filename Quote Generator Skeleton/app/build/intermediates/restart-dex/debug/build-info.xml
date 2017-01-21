@@ -1,56 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86"
-    api-level="25"
-    density="420dpi"
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="24"
+    density="560dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="2337678430952"
-    token="289390347749706799"
+    timestamp="421044293780753"
+    token="-4288798472706447470"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="291" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="37" />
+        duration="0" />
     <task
         name="verifier"
-        duration="7" />
+        duration="0" />
 
     <artifact
-        location="C:\Users\Muchen Liu\Desktop\QuoteGenerator\QuoteGenerator\Quote Generator Skeleton\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        location="C:\Users\M\AndroidStudioProjects\QuoteGenerator\Quote Generator Skeleton\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
         type="RESOURCES" />
-    <artifact
-        location="C:\Users\Muchen Liu\Desktop\QuoteGenerator\QuoteGenerator\Quote Generator Skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
-        type="DEX" />
-    <artifact
-        location="C:\Users\Muchen Liu\Desktop\QuoteGenerator\QuoteGenerator\Quote Generator Skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
-        type="DEX" />
 
     <build
-        timestamp="910871485892"
-        verifier="FULL_BUILD_REQUESTED" >
+        timestamp="420937647510685"
+        verifier="MANIFEST_FILE_CHANGE" >
         <artifact
-            location="C:\Users\Muchen Liu\Desktop\QuoteGenerator\QuoteGenerator\Quote Generator Skeleton\app\build\outputs\apk\app-debug.apk"
+            location="C:\Users\M\AndroidStudioProjects\QuoteGenerator\Quote Generator Skeleton\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="2337678430952"
+        timestamp="421044293780753"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="C:\Users\Muchen Liu\Desktop\QuoteGenerator\QuoteGenerator\Quote Generator Skeleton\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            location="C:\Users\M\AndroidStudioProjects\QuoteGenerator\Quote Generator Skeleton\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
             type="RESOURCES" />
-        <artifact
-            location="C:\Users\Muchen Liu\Desktop\QuoteGenerator\QuoteGenerator\Quote Generator Skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
-            type="DEX" />
-        <artifact
-            location="C:\Users\Muchen Liu\Desktop\QuoteGenerator\QuoteGenerator\Quote Generator Skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
-            type="DEX" />
     </build>
 
 </instant-run>

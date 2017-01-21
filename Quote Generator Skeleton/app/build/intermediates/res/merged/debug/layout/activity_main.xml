@@ -34,7 +34,7 @@
         />
     <TextView
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="100dp"
         android:paddingLeft="40dp"
         android:paddingRight="40dp"
         android:layout_marginTop="20dp"
@@ -43,7 +43,9 @@
         android:textColor="#000"
         android:textAlignment="center"
         android:layout_gravity="center_horizontal"
-        android:text="Select a professor and then press generate to get a quote."/>
+        android:text="Select a professor and then press generate to get a quote."
+        android:id="@+id/quote_text" />
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -64,7 +66,8 @@
                 android:textSize="15dp"
                 android:textStyle="bold"
                 android:textColor="#000"
-                android:text="Smallberg"/>
+                android:text="Smallberg"
+                android:id="@+id/smallberg_text" />
             <ImageButton
                 android:layout_width="70dp"
                 android:layout_height="70dp"
@@ -72,7 +75,8 @@
                 android:background="#fff"
                 android:textColor="#000"
                 android:scaleType="fitCenter"
-                android:src="@drawable/smallberg"/>
+                android:src="@drawable/smallberg"
+                android:id="@+id/smallberg_button" />
         </LinearLayout>
         <LinearLayout
             android:layout_width="match_parent"
@@ -86,7 +90,7 @@
             <TextView
                 android:text="Nachenberg"
                 android:layout_width="match_parent"
-                android:id="@+id/textView"
+                android:id="@+id/nachenberg_text"
                 android:layout_height="wrap_content"
                 android:textSize="15dp"
                 android:textStyle="normal|bold"
@@ -95,7 +99,7 @@
 
             <ImageButton
                 app:srcCompat="@drawable/nachenberg"
-                android:id="@+id/imageButton2"
+                android:id="@+id/nachenberg_button"
                 android:scaleType="fitCenter"
                 android:background="#fff"
                 android:layout_height="match_parent"
@@ -114,7 +118,7 @@
                 android:text="Miodrag "
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/textView2"
+                android:id="@+id/miodrag_text"
                 android:textSize="15dp"
                 android:textStyle="normal|bold"
                 android:textAlignment="center"
@@ -124,13 +128,14 @@
                 android:layout_width="70dp"
                 android:layout_height="70dp"
                 app:srcCompat="@drawable/miodrag"
-                android:id="@+id/imageButton3"
+                android:id="@+id/miodrag_button"
                 android:scaleType="fitCenter"
                 android:background="#fff"
                 android:adjustViewBounds="true"
                 android:layout_gravity="center" />
         </LinearLayout>
     </LinearLayout>
+
     <Button
         android:layout_width="match_parent"
         android:layout_marginRight="50dp"
@@ -139,5 +144,6 @@
         android:textColor="#fff"
         android:text="Generate"
         android:background="#FDC511"
-        android:layout_height="40dp"/>
+        android:layout_height="40dp"
+        android:id="@+id/generate_button" />
 </LinearLayout>
