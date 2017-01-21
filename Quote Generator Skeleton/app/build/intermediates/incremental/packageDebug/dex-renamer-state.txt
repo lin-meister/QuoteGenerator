@@ -1,4 +1,4 @@
-#Fri Jan 20 17:27:11 PST 2017
+#Fri Jan 20 23:39:38 PST 2017
 base.0=C\:\\Users\\M\\AndroidStudioProjects\\QuoteGenerator\\Quote Generator Skeleton\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_4cf91df9eb5846007a076c85e8fbf95004e1a8e6
 renamed.1=classes2.dex
 renamed.0=classes.dex

@@ -8,16 +8,16 @@
         "source": "C:\\Users\\M\\AndroidStudioProjects\\QuoteGenerator\\Quote Generator Skeleton\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
-        "merged": "C:\\Users\\M\\AndroidStudioProjects\\QuoteGenerator\\Quote Generator Skeleton\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
-        "source": "C:\\Users\\M\\AndroidStudioProjects\\QuoteGenerator\\Quote Generator Skeleton\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_part_time.xml"
+        "merged": "C:\\Users\\M\\AndroidStudioProjects\\QuoteGenerator\\Quote Generator Skeleton\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\M\\AndroidStudioProjects\\QuoteGenerator\\Quote Generator Skeleton\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
         "merged": "C:\\Users\\M\\AndroidStudioProjects\\QuoteGenerator\\Quote Generator Skeleton\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
         "source": "C:\\Users\\M\\AndroidStudioProjects\\QuoteGenerator\\Quote Generator Skeleton\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "C:\\Users\\M\\AndroidStudioProjects\\QuoteGenerator\\Quote Generator Skeleton\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
-        "source": "C:\\Users\\M\\AndroidStudioProjects\\QuoteGenerator\\Quote Generator Skeleton\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
+        "merged": "C:\\Users\\M\\AndroidStudioProjects\\QuoteGenerator\\Quote Generator Skeleton\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\M\\AndroidStudioProjects\\QuoteGenerator\\Quote Generator Skeleton\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_part_time.xml"
     },
     {
         "merged": "C:\\Users\\M\\AndroidStudioProjects\\QuoteGenerator\\Quote Generator Skeleton\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",

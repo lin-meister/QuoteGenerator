@@ -103,9 +103,9 @@
                 android:scaleType="fitCenter"
                 android:background="#fff"
                 android:layout_height="match_parent"
-                android:adjustViewBounds="true"
                 android:layout_gravity="center"
-                android:layout_width="70dp" />
+                android:layout_width="70dp"
+                android:adjustViewBounds="true" />
 
         </LinearLayout>
         <LinearLayout

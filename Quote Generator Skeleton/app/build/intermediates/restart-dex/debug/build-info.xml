@@ -5,40 +5,33 @@
     density="560dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="421044293780753"
+    timestamp="1412483817634"
     token="-4288798472706447470"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="797" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="296" />
     <task
         name="verifier"
-        duration="0" />
+        duration="15" />
 
     <artifact
-        location="C:\Users\M\AndroidStudioProjects\QuoteGenerator\Quote Generator Skeleton\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-        type="RESOURCES" />
+        location="C:\Users\M\AndroidStudioProjects\QuoteGenerator\Quote Generator Skeleton\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
 
     <build
-        timestamp="420937647510685"
-        verifier="MANIFEST_FILE_CHANGE" >
-        <artifact
-            location="C:\Users\M\AndroidStudioProjects\QuoteGenerator\Quote Generator Skeleton\app\build\outputs\apk\app-debug.apk"
-            type="MAIN" />
-    </build>
-    <build
-        timestamp="421044293780753"
+        timestamp="427805248353844"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="C:\Users\M\AndroidStudioProjects\QuoteGenerator\Quote Generator Skeleton\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-            type="RESOURCES" />
+            location="C:\Users\M\AndroidStudioProjects\QuoteGenerator\Quote Generator Skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            type="DEX" />
     </build>
 
 </instant-run>
