@@ -57,11 +57,11 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 setAllProfessorToBlackText();
-                if(active_img == -1){
+                if(active_img != 0){
                     smallberg_text.setTextColor(Color.parseColor("#FDC511"));
                     active_img = 0;
                 }
-                else if (active_img == 0)
+                else
                     active_img = -1;
             }
         });
@@ -70,11 +70,11 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 setAllProfessorToBlackText();
-                if(active_img == -1){
+                if(active_img != 1 ){
                     nachenberg_text.setTextColor(Color.parseColor("#FDC511"));
                     active_img = 1;
                 }
-                else if (active_img == 1)
+                else
                     active_img = -1;
             }
         });
@@ -83,11 +83,11 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 setAllProfessorToBlackText();
-                if(active_img == -1){
+                if(active_img != 2){
                     miodrag_text.setTextColor(Color.parseColor("#FDC511"));
                     active_img = 2;
                 }
-                else if (active_img == 2)
+                else
                     active_img = -1;
             }
         });
@@ -133,4 +133,5 @@ public class MainActivity extends AppCompatActivity {
         nachenberg_text.setTextColor(Color.BLACK);
         miodrag_text.setTextColor(Color.BLACK);
     }
+
 }

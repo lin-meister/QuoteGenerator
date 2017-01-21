@@ -5,27 +5,30 @@
     density="560dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="1412483817634"
-    token="-4288798472706447470"
-    verifier="FULL_BUILD_REQUESTED" >
+    timestamp="2163347066809"
+    token="-4288798472706447470" >
 
     <task
         name="javac"
-        duration="797" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="296" />
+        duration="0" />
     <task
         name="verifier"
-        duration="15" />
+        duration="0" />
 
-    <artifact
-        location="C:\Users\M\AndroidStudioProjects\QuoteGenerator\Quote Generator Skeleton\app\build\outputs\apk\app-debug.apk"
-        type="MAIN" />
-
+    <build
+        timestamp="1412483817634"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\M\AndroidStudioProjects\QuoteGenerator\Quote Generator Skeleton\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="2163347066809" />
     <build
         timestamp="427805248353844"
         verifier="COLD_SWAP_REQUESTED" >
